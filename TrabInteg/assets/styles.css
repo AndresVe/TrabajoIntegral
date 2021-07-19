@@ -1,0 +1,30 @@
+body{
+    background-color: rgba(132, 255, 214, 0.986);
+}
+
+.blanco{
+    color: aliceblue;
+}
+
+.centrar-btn{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+.contenedor{
+    margin:5em auto;
+}
+
+.ancho-ct{
+    width: 18rem;
+}
+
+.ancho-ct2{
+    width: 25em;
+}
+
+
+
+

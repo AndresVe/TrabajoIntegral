@@ -66,7 +66,7 @@
                 <p>página web diseñada por grupo N5, conformado por: </p>
                 <ul>Gabriel Abarca</ul>
                 <ul>Byron Beas</ul>
-                <ul>Matias Inostrosa</ul>
+                <ul>Matias Inostroza</ul>
                 <ul>Claudio Silva</ul>
                 <ul>Andres Velasquez</ul>
               </section>
